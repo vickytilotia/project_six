@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "523944205965",
+    "firebase_url": "https://vickytilotia1.firebaseio.com",
+    "project_id": "vickytilotia1",
+    "storage_bucket": "vickytilotia1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523944205965:android:2819246603340f22768cc4",
+        "android_client_info": {
+          "package_name": "com.sabar.project_six"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523944205965-8pm781kdnp3gjm2k1v5bk45et5rsk5nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sabar.project_six",
+            "certificate_hash": "93b5b2c85d6640bedf4031d38f96ca114b8e0c3a"
+          }
+        },
+        {
+          "client_id": "523944205965-d5chc3ftmsc5cu58l0p1gg74c1e4b2so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpg---7T0DUS2PuuuELD-0-CF7wjinJW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523944205965-d5chc3ftmsc5cu58l0p1gg74c1e4b2so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
